@@ -1,0 +1,6 @@
+canvas {
+	border: 1px solid grey;
+	cursor: crosshair;
+	float: left;
+	margin-right: 10px;
+}
